@@ -1,0 +1,102 @@
+[
+    {
+      "playerId": 1,
+      "name": "Rishabh Pant",
+      "country": "India",
+      "image": "https://example.com/images/rishabh_pant.jpg",
+      "role": "Wicket-Keeper Batter",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "27"
+    },
+    {
+      "playerId": 2,
+      "name": "Venkatesh Iyer",
+      "country": "India",
+      "image": "https://example.com/images/venkatesh_iyer.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "23.75"
+    },
+    {
+      "playerId": 3,
+      "name": "Shreyas Iyer",
+      "country": "India",
+      "image": "https://example.com/images/shreyas_iyer.jpg",
+      "role": "Batter",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "26.75"
+    },
+    {
+      "playerId": 4,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://example.com/images/mitchell_starc.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": "24.75"
+    },
+    {
+      "playerId": 5,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://example.com/images/pat_cummins.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "20.5"
+    },
+    {
+      "playerId": 6,
+      "name": "Daryl Mitchell",
+      "country": "New Zealand",
+      "image": "https://example.com/images/daryl_mitchell.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "14"
+    },
+    {
+      "playerId": 7,
+      "name": "Alzarri Joseph",
+      "country": "West Indies",
+      "image": "https://example.com/images/alzarri_joseph.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "11.5"
+    },
+    {
+      "playerId": 8,
+      "name": "Harshal Patel",
+      "country": "India",
+      "image": "https://example.com/images/harshal_patel.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": "11.75"
+    },
+    {
+      "playerId": 9,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://example.com/images/jos_buttler.jpg",
+      "role": "Wicket-Keeper Batter",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "15.75"
+    },
+    {
+      "playerId": 10,
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "image": "https://example.com/images/kagiso_rabada.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "10.75"
+    }
+  ]
